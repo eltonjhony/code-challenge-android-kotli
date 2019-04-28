@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Code Challenge</string>
-    <string name="movie_and_genres">%s - %s</string>
+    <string name="movie_and_genres" formatted="false">%s - %s</string>
+    <string name="search_hint">Find a movie by name</string>
+    <string name="no_network_error">No network Available. Please, connect to the Internet and Try again</string>
+    <string name="generic_error">An unexpected error happens</string>
+
+    <string name="release_date">Release date:</string>
+    <string name="resume">Resume</string>
 </resources>
